@@ -1,6 +1,6 @@
 html,body {
   font-family: "Helvetica", Verdana, Arial, sans-serif;
-  background-color: #eeeeee;
+  background-color: #ffffff;
   font-weight: lighter;
   height: 100%;
   margin: 0px;
@@ -75,8 +75,9 @@ hr {
 
 .navbar .nav>li>a {
     float: none;
-    padding: 5px 15px 5px;
+    padding: 15px 15px 5px;
     color: #fff;
+    font-size: 20px;
     text-decoration: none;
     text-shadow: none;
 }
@@ -391,7 +392,7 @@ a:hover { color: #a1322b; }
 .home-donate {
   border: 1px solid #cccccc;
   background-color: #803022;
-  height: 35px;
+  height: 40px;
   margin-top: 20px;
 
 }
@@ -479,7 +480,6 @@ a.impact:hover > .impactbox {
 
 #nav-main {
   margin-top: 35px;
-  border-bottom: 1px solid #999999 ;
   padding-bottom: 5px;
   margin-bottom: 5px;
   padding-right: 10px;
@@ -487,13 +487,13 @@ a.impact:hover > .impactbox {
 
 #nav-main a {
   color: #a1322b;
-  font-size: 15pt;
+  font-size: 17pt;
 }
 
 #nav-main li {
   display: inline;
   margin-left: 20px;
-  border-left: 1px solid #a1322b;
+ 
   padding-left: 22px;
   margin-bottom: 0px;
   margin-right: 0px;
